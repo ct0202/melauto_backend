@@ -10,7 +10,7 @@ const
 require('dotenv').config();
 
 
-const PORT = process.env.PORT || 2000;
+const PORT = process.env.PORT || 2024;
 
 const app = express();
 
